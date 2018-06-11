@@ -1,6 +1,6 @@
 {application,vocialify,
              [{applications,[kernel,stdlib,elixir,logger,runtime_tools,
-                             gettext,phoenix_pubsub,cowboy,phoenix_html,
+                             gettext,phoenix_pubsub,cowboy,plug,phoenix_html,
                              phoenix,postgrex,phoenix_ecto]},
               {description,"vocialify"},
               {modules,['Elixir.Vocialify','Elixir.Vocialify.Application',
