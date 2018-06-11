@@ -15,6 +15,8 @@
                         'Elixir.VocialifyWeb.LayoutView',
                         'Elixir.VocialifyWeb.PageController',
                         'Elixir.VocialifyWeb.PageView',
+                        'Elixir.VocialifyWeb.PollController',
+                        'Elixir.VocialifyWeb.PollView',
                         'Elixir.VocialifyWeb.Router',
                         'Elixir.VocialifyWeb.Router.Helpers',
                         'Elixir.VocialifyWeb.UserSocket']},
